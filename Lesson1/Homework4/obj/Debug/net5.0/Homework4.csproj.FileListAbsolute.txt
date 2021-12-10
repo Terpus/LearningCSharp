@@ -1,0 +1,16 @@
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\bin\Debug\net5.0\Homework4.exe
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\bin\Debug\net5.0\Homework4.deps.json
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\bin\Debug\net5.0\Homework4.runtimeconfig.json
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\bin\Debug\net5.0\Homework4.runtimeconfig.dev.json
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\bin\Debug\net5.0\Homework4.dll
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\bin\Debug\net5.0\ref\Homework4.dll
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\bin\Debug\net5.0\Homework4.pdb
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\obj\Debug\net5.0\Homework4.csprojAssemblyReference.cache
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\obj\Debug\net5.0\Homework4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\obj\Debug\net5.0\Homework4.AssemblyInfoInputs.cache
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\obj\Debug\net5.0\Homework4.AssemblyInfo.cs
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\obj\Debug\net5.0\Homework4.csproj.CoreCompileInputs.cache
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\obj\Debug\net5.0\Homework4.dll
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\obj\Debug\net5.0\ref\Homework4.dll
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\obj\Debug\net5.0\Homework4.pdb
+C:\Users\Bo\Documents\Geekbrains\C#\Lesson1\Homework4\obj\Debug\net5.0\Homework4.genruntimeconfig.cache

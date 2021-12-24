@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b7dfc11-5320-4c05-98c6-63d8aff5a83c": {
+      "ProjectGuid": "0b7dfc11-5320-4c05-98c6-63d8aff5a83c",
+      "DisplayName": "Lesson4",
+      "ColorIndex": 0
+    },
+    "2f7241b1-10f6-418b-89f7-f364ada91b93": {
+      "ProjectGuid": "2f7241b1-10f6-418b-89f7-f364ada91b93",
+      "DisplayName": "Homework5",
+      "ColorIndex": 1
+    },
+    "950f6612-612a-442e-b738-e059f6815ff6": {
+      "ProjectGuid": "950f6612-612a-442e-b738-e059f6815ff6",
+      "DisplayName": "Lesson4ClassLibrary",
+      "ColorIndex": 2
+    },
+    "5cbc0798-8a38-496d-b2d8-85f7f5cbe448": {
+      "ProjectGuid": "5cbc0798-8a38-496d-b2d8-85f7f5cbe448",
+      "DisplayName": "Lesson4ClassLibrary",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "68c44447-8671-40ce-9503-dbb36be81ed0": {
+      "ProjectGuid": "68c44447-8671-40ce-9503-dbb36be81ed0",
+      "DisplayName": "Homework4",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
